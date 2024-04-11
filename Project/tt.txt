@@ -1,0 +1,101 @@
+ <section id="menu" class="menu">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2 align="center">Our Menu</h2>
+        <p align="center">Check Our <span>Yummy Menu</span></p>
+      </div>
+
+      <ul class="nav nav-tabs d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
+
+        <li class="nav-item">
+          <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#menu-starters">
+            <h4>Starters</h4>
+          </a>
+        </li><!-- End tab nav item -->
+
+        <li class="nav-item">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-breakfast">
+            <h4>Breakfast</h4>
+          </a>
+        </li><!-- End tab nav item -->
+
+        <li class="nav-item">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-lunch">
+            <h4>Lunch</h4>
+          </a>
+        </li><!-- End tab nav item -->
+
+        <li class="nav-item">
+          <a class="nav-link" data-bs-toggle="tab" data-bs-target="#menu-dinner">
+            <h4>Dinner</h4>
+          </a>
+        </li><!-- End tab nav item -->
+
+      </ul>
+
+      <div class="tab-content" data-aos="fade-up" data-aos-delay="300">
+
+        <div class="tab-pane fade active show" id="menu-starters">
+
+          <div class="tab-header text-center">
+            <p>Menu</p>
+            <h3>Starters</h3>
+          </div>
+
+          <div class="row gy-5">
+
+            <div class="col-lg-4 menu-item">
+              <a href="images/img/Aloo Chaat.png" class="glightbox"><img src="images/img/Aloo Chaat.png" class="menu-img img-fluid" alt=""></a>
+              <h4>Aloo Chaat</h4>
+              <p class="price">
+                Rs.40
+              </p>
+              <button class="mt-4 main-btn">Order Now</button>
+            </div><!-- Menu Item -->
+
+            <div class="col-lg-4 menu-item">
+              <a href="images/img/Corn Paneer Cutlet.png" class="glightbox"><img src="images/img/Corn Paneer Cutlet.png" class="menu-img img-fluid" alt=""></a>
+              <h4>Corn Paneer Cutlet</h4>
+              <p class="price">
+                Rs.60
+              </p>
+              <button class="mt-4 main-btn">Order Now</button>
+            </div><!-- Menu Item -->
+
+
+            <div class="col-lg-4 menu-item">
+              <a href="images/img/Hara Bhara Kabab.png" class="glightbox"><img src="images/img/Hara Bhara Kabab.png" class="menu-img img-fluid" alt=""></a>
+              <h4>Hara Bhara Kebab</h4>
+              <p class="price">
+                Rs.65
+              </p>
+              <button class="mt-4 main-btn">Order Now</button>
+            </div><!-- Menu Item -->
+
+            <div class="col-lg-4 menu-item">
+              <a href="images/img/Veg Manchurian.png" class="glightbox"><img src="images/img/Veg Manchurian.png" class="menu-img img-fluid" alt=""></a>
+              <h4>Veg Manchurian</h4>
+              <p class="price">
+                Rs.120
+              </p>
+              <button class="mt-4 main-btn">Order Now</button>
+            </div><!-- Menu Item -->
+
+            <div class="col-lg-4 menu-item">
+              <a href="images/img/Masala papad.png" class="glightbox"><img src="images/img/Masala papad.png" class="menu-img img-fluid" alt=""></a>
+              <h4>Masala papad</h4>
+              <p class="price">
+                Rs.50
+              </p>
+              <button class="mt-4 main-btn">Order Now</button>
+            </div><!-- Menu Item -->
+
+            <div class="col-lg-4 menu-item">
+              <a href="images/img/Samosa Chaat Pizza.png" class="glightbox"><img src="images/img/Samosa Chaat Pizza.png" class="menu-img img-fluid" alt=""></a>
+              <h4>Samosa Chaat Pizza</h4>
+              <p class="price">
+                Rs.60
+              </p>
+              <button class="mt-4 main-btn">Order Now</button>
+            </div><!-- End Starter Menu Content -->
